@@ -5,4 +5,3 @@ print("yellow")
 print("purple")
 print("orange")
 print("black")
-
