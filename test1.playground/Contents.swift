@@ -6,4 +6,4 @@ print("purple")
 print("orange")
 print("black")
 print("Road브랜치 추가")
-
+print("clone다운-> 커밋 -> 푸쉬")
